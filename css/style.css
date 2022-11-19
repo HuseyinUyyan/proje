@@ -1,4 +1,3 @@
-
 /* WEb ve Grafik Yazılar*/
 
 .container-fluid.web {
@@ -28,6 +27,7 @@
   font-size: xx-large;
   text-align: right;
 }
+
 .container-fluid.grafik .row .col-md-5 button {
   background-color: #4169E1;
   color: wheat;
@@ -50,6 +50,7 @@
   font-family: raleway;
 
 }
+
 .container-fluid .row .col-md-4.p-3 img {
   max-height: 600px;
   max-width: 500px;
@@ -68,29 +69,33 @@
 /* WEb ve Grafik Yazılar Bitişi*/
 
 /* Neden Unilancer BAslangıc*/
-.neden h3{
+.neden h3 {
   color: #4169E1;
   font-size: xx-large;
   font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
- 
+
 }
-.neden .col-md-4 .neden-h3{
+
+.neden .col-md-4 .neden-h3 {
   color: #4169E1;
   font-size: x-large;
 
 }
-.neden p{
+
+.neden p {
   color: #808080;
   text-align: center;
   font-family: raleway;
   font-size: larger;
 }
+
 .container .row .col-md-4 img {
   width: 250px;
   max-height: 100%;
   text-align: center;
   margin-left: 85px;
 }
+
 .container .row .col-md-4 .aciklama {
   text-align: center;
   color: #808080;
@@ -100,6 +105,7 @@
   opacity: 0.8;
 
 }
+
 /* Neden Unılancer Bitişi*/
 
 
@@ -113,143 +119,49 @@
 }
 
 .container.diger .col-md-4 .seo {
-  background-color: white;
+background-color: white;
   border-radius: 10px;
   border-top-style: solid;
-  border-color: #ff3d00;
+  border-color: #4169E1;
   border-width: 0.1rem;
   padding-bottom: 5px;
   margin-left: 25px;
   transition: 0.5s;
   animation-name: example;
   animation-duration: 4s;
+  color: #4169E1;
 }
 
 .container.diger .col-md-4 .seo:hover {
   transform: scale(1.1);
-  backdrop-filter: blur(5px);
-  box-shadow: 15px 15px 15px #ff3d00;
+  backdrop-filter: blur(3px);
+  box-shadow: 15px 15px 15px #4169E1;
 
 
-}
-
-.container.diger .col-md-4 .sosyal {
-  background-color: white;
-  border-top-style: solid;
-  border-radius: 10px;
-  border-color: blue;
-  border-width: 0.1rem;
-  padding-bottom: 5px;
-  margin-left: 15px;
-  transition: 0.5s;
-  animation-name: example;
-  animation-duration: 4s;
-}
-
-.container.diger .col-md-4 .sosyal:hover {
-  transform: scale(1.1);
-  backdrop-filter: blur(5px);
-  box-shadow: 15px 15px 15px blue;
-}
-
-.container.diger .col-md-4 .uı {
-  background-color: white;
-  border-radius: 10px;
-  border-top-style: solid;
-  border-color: purple;
-  border-width: 0.1rem;
-  padding-bottom: 5px;
-  margin-left: 15px;
-  transition: 0.5s;
-  animation-name: example;
-  animation-duration: 4s;
-}
-
-.container.diger .col-md-4 .uı:hover {
-  transform: scale(1.1);
-  backdrop-filter: blur(5px);
-  box-shadow: 15px 15px 15px purple;
-}
-
-.container.diger .col-md-4 .reklam {
-  background-color: white;
-  border-radius: 10px;
-  border-top-style: solid;
-  border-color: pink;
-  border-width: 0.3rem;
-  padding-bottom: 5px;
-  margin-left: 15px;
-  transition: 0.5s;
-  animation-name: example;
-  animation-duration: 4s;
-
-}
-
-.container.diger .col-md-4 .reklam:hover {
-  transform: scale(1.1);
-  backdrop-filter: blur(5px);
-  box-shadow: 15px 15px 15px pink;
-}
-
-.container.diger .col-md-4 .bos {
-  background-color: white;
-  border-top-style: solid;
-  border-color: #12e338;
-  border-width: 0.1rem;
-  border-radius: 10px;
-  padding-bottom: 5px;
-  margin-left: 15px;
-  transition: 0.5s;
-  animation-name: example;
-  animation-duration: 4s;
-}
-
-.container.diger .col-md-4 .bos:hover {
-  transform: scale(1.1);
-  backdrop-filter: blur(5px);
-  box-shadow: 15px 15px 15px #12e338;
-}
-
-.container.diger .col-md-4 .bos1 {
-  background-color: white;
-  border-top-style: solid;
-  border-color: #e53846;
-  border-width: 0.1rem;
-  border-radius: 10px;
-  padding-bottom: 5px;
-  margin-left: 15px;
-  transition: 0.5s;
-  animation-name: example;
-  animation-duration: 4s;
-}
-
-.container.diger .col-md-4 .bos1:hover {
-  transform: scale(1.1);
-  backdrop-filter: blur(5px);
-  box-shadow: 15px 15px 15px 15px #e53846;
 }
 
 .container.diger .col-md-4 i {
 
-
+text-align: center;
   display: block;
   margin-top: 15px;
   margin-bottom: 15px;
 
   margin-right: auto;
-  padding: 15px;
+  padding-left: auto;
   width: 40%;
 }
 
 .container.diger {
   margin-top: 75px;
+  
   background-color: #f7f7f7;
 }
 
 .container.diger .row .col-md-4 p {
   text-align: left;
   font-family: raleway;
-  color: black;
+  color: #808080;
 
 }
 
@@ -280,7 +192,7 @@
 }
 
 .container.neler .row .col-md-4.sagol .sag {
-  
+
   width: 80px;
   float: left;
   margin-left: -150px;

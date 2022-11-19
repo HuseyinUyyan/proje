@@ -13,6 +13,7 @@
     <link rel="stylesheet" href="css/index.css">
     <link rel="stylesheet" href="css/hakkimizda.css">
     <link rel="stylesheet" href="css/header.css">
+    <link rel="stylesheet" href="css/hizmetler.css">
    
 
     

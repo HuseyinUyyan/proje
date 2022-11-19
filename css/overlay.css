@@ -5,7 +5,7 @@
     height: 280px;
     width: 220px;
     overflow: hidden;
-    float: left;
+    
     margin: 10px;
 }
 .overlay-fade:hover div {
@@ -21,6 +21,7 @@
     height: 100%;
     opacity: 0;
     transition: all 0.2s ease-in;
+    margin-left: 15px;
 }
 .overlay-fade a {
 	box-sizing: border-box;
@@ -42,9 +43,14 @@
     font-size: 12px;
     font-weight: bold;
 }
+.overlay-fade a:hover{
+    text-decoration: none;
+    color: white;
+}
 .overlay-slide:hover div {
     transform: translate(0, 0) ;
 	transition: all 0.2s ease-in;
+    
 }
 .overlay-slide div {
 	position: absolute;

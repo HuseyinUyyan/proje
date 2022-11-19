@@ -8,7 +8,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
-    
+
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css">
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
@@ -42,16 +42,16 @@
                         <span class="me-3"><i class="fa-solid fa-phone me-1 " style="color:#4169E1 ;"></i> <strong>0552 804 7962</strong></span>
                     </div>
                     <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 d-none d-lg-block d-md-block-d-sm-block d-xs-none text-end">
-                        
+
                         <span class="me-3"><i class="bi bi-file-earmark fa-lg p-1" style="color:#4169E1 ;"></i><a class="text-muted" href="#">Politika</a></span>
                     </div>
                 </div>
             </div>
         </div>
-        <nav class="navbar navbar-expand-lg  sticky-top navbar-light p-3 shadow-sm">
+        <nav class="navbar navbar-expand-lg sticky-top  navbar-light p-3 shadow-sm">
             <div class="container">
                 <a class="navbar-brand" href="#"><i class="fa-solid fa-shop me-2 " style="color:#4169E1;"></i> <strong>Unilancer</strong></a>
-                <button class="navbar-toggler"  type="button" data-bs-toggle="collapse" style="color:#4169E1 ;" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" style="color:#4169E1 ;" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
                     <span class=""><i class="bi bi-caret-down-square fa-lg"></i></span>
                 </button>
 
@@ -78,7 +78,7 @@
                             <a class="nav-link mx-2 text-uppercase" href="hakkimizda.php">Hakkımızda</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link mx-2 text-uppercase" href="#">Hizmetler</a>
+                            <a class="nav-link mx-2 text-uppercase" href="hizmetler.php">Hizmetler</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link mx-2 text-uppercase" href="#">İletişim</a>
@@ -89,10 +89,10 @@
                     </ul>
                     <ul class="navbar-nav ms-auto ">
                         <li class="nav-item">
-                            <a class="nav-link mx-2 text-uppercase" href="#"><i class="fa-solid fa-cart-shopping me-1"  style="color:#4169E1;"></i> Sepetim</a>
+                            <a class="nav-link mx-2 text-uppercase" href="#"><i class="fa-solid fa-cart-shopping me-1" style="color:#4169E1;"></i> Sepetim</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link mx-2 text-uppercase" href="#"><i class="fa-solid fa-circle-user me-1"  style="color:#4169E1;"></i> Hesabım</a>
+                            <a class="nav-link mx-2 text-uppercase" href="kullanicikayit.php"><i class="fa-solid fa-circle-user me-1" style="color:#4169E1;"></i> Hesabım</a>
                         </li>
                     </ul>
                 </div>
@@ -115,7 +115,7 @@
                     <img class="d-block w-100" src="videolar/web-tasarimi-30526.png" alt="First slide">
                     <div class="carousel-caption d-none d-md-block">
                         <h5 class="sag animate__animated animate__bounceInRight">Hüseyin Uyan</h5>
-                        <p class="sagp animate__animated animate__bounceInRight">Sananes</p>
+                        <p class="sagp animate__animated animate__bounceInRight">Web Tasarım</p>
                         <div class="slider-btn">
                             <button class="btn btn-sag animate__animated animate__bounceInRight">Hemen İncele </button>
                             <button class="btn-1 btn-sag animate__animated animate__bounceInRight">Satın Al</button>
@@ -125,8 +125,8 @@
                 <div class="carousel-item">
                     <img class="d-block w-100" src="videolar/pexels-tranmautritam-251225.jpg" alt="Second slide">
                     <div class="carousel-caption d-none d-md-block">
-                        <h5 class="sol">Sanane</h5>
-                        <p class="solp">Sanane</p>
+                        <h5 class="sol">Grafik Tasarım</h5>
+                        <p class="solp">Grafik Tasarım</p>
                         <div class="slider-btn">
                             <button class="btn btn-3">Hemen İncele </button>
                             <button class="btn-1 btn-4">Satın Al</button>
@@ -136,8 +136,8 @@
                 <div class="carousel-item">
                     <img class="d-block w-100" src="videolar/pexels-pixabay-60597.jpg" alt="Third slide">
                     <div class="carousel-caption d-none d-md-block">
-                        <h5 class="sag animate__animated animate__bounceInLeft">Sanane</h5>
-                        <p class="sagp animate__animated animate__bounceInLeft">Sanane</p>
+                        <h5 class="sag animate__animated animate__bounceInLeft">Seo Hizmeti</h5>
+                        <p class="sagp animate__animated animate__bounceInLeft">Seo</p>
                         <div class="slider-btn">
                             <button class="btn btn-sag animate__animated animate__bounceInLeft">Hemen İncele </button>
                             <button class="btn-1 btn-sag üanimate__animated animate__bounceInLeft">Satın Al</button>
@@ -147,8 +147,8 @@
                 <div class="carousel-item">
                     <img class="d-block w-100" src="videolar/pexels-tranmautritam-251225.jpg" alt="Second slide">
                     <div class="carousel-caption d-none d-md-block">
-                        <h5 class="sol">Sanane</h5>
-                        <p class="solp">Sanane</p>
+                        <h5 class="sol">Reklamcılık Hizmeti</h5>
+                        <p class="solp">Reklamcılık</p>
                         <div class="slider-btn">
                             <button class="btn btn-3">Hemen İncele </button>
                             <button class="btn-1 btn-4">Satın Al</button>
@@ -157,11 +157,11 @@
                 </div>
             </div>
             <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
-                <span class="carousel-control" aria-hidden="true"><i class="bi bi-arrow-left-square-fill fa-4x" style="color:#4169E1 ; " ></i></span>
+                <span class="carousel-control" aria-hidden="true"><i class="bi bi-arrow-left-square-fill fa-4x" style="color:#4169E1 ; "></i></span>
                 <span class="sr-only">Previous</span>
             </a>
-            <a class="carousel-control-next" href="#carouselExampleIndicators" role="button"  data-slide="next">
-                <span class="carousel-control"  aria-hidden="true"><i class="bi bi-arrow-right-square-fill fa-4x" style="color:#4169E1 ;" ></i></span>
+            <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+                <span class="carousel-control" aria-hidden="true"><i class="bi bi-arrow-right-square-fill fa-4x" style="color:#4169E1 ;"></i></span>
                 <span class="sr-only">Next</span>
             </a>
         </div>
